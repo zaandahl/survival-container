@@ -1,4 +1,4 @@
-# research-framework data directory
+# survival-container data directory
 This folder is *not* in version control! Use it on your local repo to store your data.
 
 Store data files in cloud-based storage (e.g. Dropbox, AWS S3).

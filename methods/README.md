@@ -1,4 +1,4 @@
-# research-framework methods directory
+# survival-container methods directory
 This directory is not ignored, files here will be in version control
 
 Main research files go in here. 
